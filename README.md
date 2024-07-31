@@ -4,6 +4,7 @@ Fablab Artilect porte entre le FabCafe et la sale de formation - Photogrametrie 
 
 Fait:
  - [X] une premiere reconstruction cracra pas trop utilisable
+ - [X] une premiere esquisse de l'encadrement
 
 A faire:
  - [ ] une reconstruction 3D utiliseable
